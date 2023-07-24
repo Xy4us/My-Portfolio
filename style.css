@@ -410,21 +410,25 @@ a {
 }
 
 #project1 {
-  background-image: url(./Project1.png);
+  background-image: url(Project1.png);
 }
 
 #project2 {
   margin-left: 10%;
-  background-image: url(./Project2.png);
+  background-image: url(Project2.png);
 }
 
 #project3 {
-  background-image: url(./Project3.png);
+  background-image: url(Project3.png);
 }
 
 #project4 {
   margin-left: 10%;
-  background-image: url(./Project4.png);
+  background-image: url(Project4.png);
+}
+
+#project5 {
+  background-image: url(Project5.png);
 }
 
 .project-card::after {
